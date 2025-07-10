@@ -1,0 +1,1316 @@
+2025-07-07 16:56:39,052 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 16:56:39,071 - INFO - Scheduling uploads from now (16:56:39) until 8 PM PKT today.
+2025-07-07 16:56:39,071 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 16:56:39,071 - INFO - - 2025-07-07 17:19:52 PKT+0500
+2025-07-07 16:56:39,071 - INFO - - 2025-07-07 17:53:29 PKT+0500
+2025-07-07 16:56:39,071 - INFO - - 2025-07-07 18:19:14 PKT+0500
+2025-07-07 16:56:39,071 - INFO - - 2025-07-07 18:51:37 PKT+0500
+2025-07-07 16:56:39,071 - INFO - - 2025-07-07 19:54:41 PKT+0500
+2025-07-07 16:56:39,071 - INFO - 
+Waiting until 2025-07-07 17:19:52 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 17:22:31,452 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 17:22:31,469 - INFO - Scheduling uploads from now (17:22:31) until 8 PM PKT today.
+2025-07-07 17:22:31,469 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 17:22:31,470 - INFO - - 2025-07-07 17:46:27 PKT+0500
+2025-07-07 17:22:31,470 - INFO - - 2025-07-07 17:48:19 PKT+0500
+2025-07-07 17:22:31,470 - INFO - - 2025-07-07 18:38:40 PKT+0500
+2025-07-07 17:22:31,470 - INFO - - 2025-07-07 18:44:01 PKT+0500
+2025-07-07 17:22:31,470 - INFO - - 2025-07-07 19:15:28 PKT+0500
+2025-07-07 17:22:31,470 - INFO - 
+Waiting until 2025-07-07 17:46:27 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 17:46:27,469 - INFO - --- Starting upload attempt 1 for scheduled time 17:46:27 ---
+2025-07-07 17:51:27,900 - ERROR - An error occurred during browser setup: Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-07-07 17:51:27,901 - ERROR - Please ensure:
+2025-07-07 17:51:27,901 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 17:51:27,901 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 17:51:27,901 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 17:51:27,901 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 17:51:27,901 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 17:51:27,901 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 17:51:27,901 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 17:51:27,901 - INFO - Retrying in 300 seconds...
+2025-07-07 17:56:27,902 - INFO - --- Starting upload attempt 2 for scheduled time 17:46:27 ---
+2025-07-07 17:59:48,267 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 17:59:48,267 - ERROR - Please ensure:
+2025-07-07 17:59:48,268 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 17:59:48,268 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 17:59:48,268 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 17:59:48,268 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 17:59:48,268 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 17:59:48,268 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 17:59:48,268 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 17:59:48,269 - INFO - Retrying in 300 seconds...
+2025-07-07 18:04:48,269 - INFO - --- Starting upload attempt 3 for scheduled time 17:46:27 ---
+2025-07-07 18:04:48,397 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:04:48,397 - ERROR - Please ensure:
+2025-07-07 18:04:48,398 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:04:48,398 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:04:48,398 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:04:48,398 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:04:48,398 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:04:48,398 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:04:48,398 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:04:48,398 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-07 18:04:48,399 - INFO - 
+Scheduled time 2025-07-07 17:48:19 PKT+0500 is in the past. Attempting upload immediately (2/5).
+2025-07-07 18:04:48,399 - INFO - --- Starting upload attempt 1 for scheduled time 17:48:19 ---
+2025-07-07 18:04:48,525 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:04:48,525 - ERROR - Please ensure:
+2025-07-07 18:04:48,525 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:04:48,525 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:04:48,525 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:04:48,525 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:04:48,525 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:04:48,526 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:04:48,526 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:04:48,526 - INFO - Retrying in 300 seconds...
+2025-07-07 18:09:48,526 - INFO - --- Starting upload attempt 2 for scheduled time 17:48:19 ---
+2025-07-07 18:09:48,655 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:09:48,655 - ERROR - Please ensure:
+2025-07-07 18:09:48,655 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:09:48,655 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:09:48,655 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:09:48,656 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:09:48,656 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:09:48,656 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:09:48,656 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:09:48,656 - INFO - Retrying in 300 seconds...
+2025-07-07 18:14:48,656 - INFO - --- Starting upload attempt 3 for scheduled time 17:48:19 ---
+2025-07-07 18:14:48,785 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:14:48,785 - ERROR - Please ensure:
+2025-07-07 18:14:48,785 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:14:48,785 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:14:48,785 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:14:48,786 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:14:48,786 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:14:48,786 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:14:48,786 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:14:48,786 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-07 18:14:48,787 - INFO - 
+Waiting until 2025-07-07 18:38:40 PKT+0500 (PKT) for next upload (3/5)...
+2025-07-07 18:38:40,469 - INFO - --- Starting upload attempt 1 for scheduled time 18:38:40 ---
+2025-07-07 18:38:40,598 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:38:40,598 - ERROR - Please ensure:
+2025-07-07 18:38:40,598 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:38:40,598 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:38:40,599 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:38:40,599 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:38:40,599 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:38:40,599 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:38:40,599 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:38:40,599 - INFO - Retrying in 300 seconds...
+2025-07-07 18:43:40,600 - INFO - --- Starting upload attempt 2 for scheduled time 18:38:40 ---
+2025-07-07 18:43:40,728 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:43:40,728 - ERROR - Please ensure:
+2025-07-07 18:43:40,728 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:43:40,728 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:43:40,728 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:43:40,729 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:43:40,729 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:43:40,729 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:43:40,729 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:43:40,729 - INFO - Retrying in 300 seconds...
+2025-07-07 18:48:40,730 - INFO - --- Starting upload attempt 3 for scheduled time 18:38:40 ---
+2025-07-07 18:48:42,394 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:48:42,394 - ERROR - Please ensure:
+2025-07-07 18:48:42,394 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:48:42,395 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:48:42,395 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:48:42,395 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:48:42,395 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:48:42,395 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:48:42,395 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:48:42,396 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-07 18:48:42,396 - INFO - 
+Scheduled time 2025-07-07 18:44:01 PKT+0500 is in the past. Attempting upload immediately (4/5).
+2025-07-07 18:48:42,396 - INFO - --- Starting upload attempt 1 for scheduled time 18:44:01 ---
+2025-07-07 18:48:42,522 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:48:42,523 - ERROR - Please ensure:
+2025-07-07 18:48:42,523 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:48:42,523 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:48:42,523 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:48:42,523 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:48:42,523 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:48:42,523 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:48:42,523 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:48:42,523 - INFO - Retrying in 300 seconds...
+2025-07-07 18:53:42,524 - INFO - --- Starting upload attempt 2 for scheduled time 18:44:01 ---
+2025-07-07 18:53:42,652 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:53:42,652 - ERROR - Please ensure:
+2025-07-07 18:53:42,652 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:53:42,652 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:53:42,652 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:53:42,652 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:53:42,653 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:53:42,653 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:53:42,653 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:53:42,653 - INFO - Retrying in 300 seconds...
+2025-07-07 18:58:42,653 - INFO - --- Starting upload attempt 3 for scheduled time 18:44:01 ---
+2025-07-07 18:58:42,782 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 18:58:42,782 - ERROR - Please ensure:
+2025-07-07 18:58:42,783 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 18:58:42,783 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 18:58:42,783 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 18:58:42,783 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 18:58:42,783 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 18:58:42,783 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 18:58:42,784 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 18:58:42,784 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-07 18:58:42,784 - INFO - 
+Waiting until 2025-07-07 19:15:28 PKT+0500 (PKT) for next upload (5/5)...
+2025-07-07 19:01:23,148 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 19:01:23,163 - INFO - Scheduling uploads from now (19:01:23) until 8 PM PKT today.
+2025-07-07 19:01:23,163 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 19:01:23,164 - INFO - - 2025-07-07 19:03:54 PKT+0500
+2025-07-07 19:01:23,164 - INFO - - 2025-07-07 19:12:01 PKT+0500
+2025-07-07 19:01:23,164 - INFO - - 2025-07-07 19:14:19 PKT+0500
+2025-07-07 19:01:23,164 - INFO - - 2025-07-07 19:33:11 PKT+0500
+2025-07-07 19:01:23,164 - INFO - - 2025-07-07 19:33:19 PKT+0500
+2025-07-07 19:01:23,164 - INFO - 
+Waiting until 2025-07-07 19:03:54 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 19:03:54,163 - INFO - --- Starting upload attempt 1 for scheduled time 19:03:54 ---
+2025-07-07 19:04:00,868 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 19:04:00,868 - ERROR - Please ensure:
+2025-07-07 19:04:00,868 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 19:04:00,869 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 19:04:00,869 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 19:04:00,869 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 19:04:00,869 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 19:04:00,869 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 19:04:00,869 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 19:04:00,869 - INFO - Retrying in 300 seconds...
+2025-07-07 19:08:05,015 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 19:08:05,034 - INFO - Scheduling uploads from now (19:08:05) until 8 PM PKT today.
+2025-07-07 19:08:05,034 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 19:08:05,034 - INFO - - 2025-07-07 19:10:12 PKT+0500
+2025-07-07 19:08:05,034 - INFO - - 2025-07-07 19:32:22 PKT+0500
+2025-07-07 19:08:05,035 - INFO - - 2025-07-07 19:41:13 PKT+0500
+2025-07-07 19:08:05,035 - INFO - - 2025-07-07 19:48:58 PKT+0500
+2025-07-07 19:08:05,035 - INFO - - 2025-07-07 19:54:16 PKT+0500
+2025-07-07 19:08:05,035 - INFO - 
+Waiting until 2025-07-07 19:10:12 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 19:09:00,869 - INFO - --- Starting upload attempt 2 for scheduled time 19:03:54 ---
+2025-07-07 19:09:00,997 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 19:09:00,998 - ERROR - Please ensure:
+2025-07-07 19:09:00,998 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 19:09:00,998 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 19:09:00,998 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 19:09:00,998 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 19:09:00,998 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 19:09:00,998 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 19:09:00,998 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 19:09:00,998 - INFO - Retrying in 300 seconds...
+2025-07-07 19:10:12,034 - INFO - --- Starting upload attempt 1 for scheduled time 19:10:12 ---
+2025-07-07 19:10:14,444 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:10:21,721 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:10:21,724 - INFO - Already uploaded video filenames (from log): {'4.mp4'}
+2025-07-07 19:10:21,725 - INFO - Next channel video number for title: 17
+2025-07-07 19:10:21,726 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:10:21,728 - INFO - Next video file to upload: /home/kali/Desktop/video/5.mp4
+2025-07-07 19:10:21,729 - INFO - Attempting to click the upload icon...
+2025-07-07 19:10:21,819 - ERROR - An error occurred during YouTube upload process for video '5.mp4' (Channel # 17): Message: WebDriver session does not exist, or is not active; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2025-07-07 19:10:24,700 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 19:10:24,736 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 19:10:24,736 - INFO - Retrying in 300 seconds...
+2025-07-07 19:10:31,278 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 19:10:31,293 - INFO - Scheduling uploads from now (19:10:31) until 8 PM PKT today.
+2025-07-07 19:10:31,293 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 19:10:31,293 - INFO - - 2025-07-07 19:12:40 PKT+0500
+2025-07-07 19:10:31,293 - INFO - - 2025-07-07 19:18:23 PKT+0500
+2025-07-07 19:10:31,294 - INFO - - 2025-07-07 19:23:08 PKT+0500
+2025-07-07 19:10:31,294 - INFO - - 2025-07-07 19:25:51 PKT+0500
+2025-07-07 19:10:31,294 - INFO - - 2025-07-07 19:32:46 PKT+0500
+2025-07-07 19:10:31,294 - INFO - 
+Waiting until 2025-07-07 19:12:40 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 19:12:40,293 - INFO - --- Starting upload attempt 1 for scheduled time 19:12:40 ---
+2025-07-07 19:12:40,438 - ERROR - An error occurred during browser setup: Message: Process unexpectedly closed with status 1
+
+2025-07-07 19:12:40,438 - ERROR - Please ensure:
+2025-07-07 19:12:40,438 - ERROR - 1. GeckoDriver is installed and accessible in your system's PATH, or its path is correctly specified.
+2025-07-07 19:12:40,438 - ERROR - 2. The 'profile_path' ('/home/kali/.mozilla/firefox/yh9x5vth.talha') is correct.
+2025-07-07 19:12:40,438 - ERROR -    You can find your Firefox profile path by typing 'about:profiles' in your Firefox browser's address bar.
+2025-07-07 19:12:40,439 - ERROR - 
+IMPORTANT: If you're encountering a verification step, please open this Firefox profile manually once,
+2025-07-07 19:12:40,439 - ERROR - complete any verification, and then close it. This often resolves the issue for future automated runs.
+2025-07-07 19:12:40,439 - ERROR - Failed to open Firefox profile. Aborting upload.
+2025-07-07 19:12:40,439 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-07 19:12:40,439 - INFO - Retrying in 300 seconds...
+2025-07-07 19:15:21,912 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 19:15:21,928 - INFO - Scheduling uploads from now (19:15:21) until 8 PM PKT today.
+2025-07-07 19:15:21,928 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 19:15:21,928 - INFO - - 2025-07-07 19:16:21 PKT+0500
+2025-07-07 19:15:21,928 - INFO - - 2025-07-07 19:27:35 PKT+0500
+2025-07-07 19:15:21,928 - INFO - - 2025-07-07 19:55:36 PKT+0500
+2025-07-07 19:15:21,928 - INFO - - 2025-07-07 19:58:23 PKT+0500
+2025-07-07 19:15:21,929 - INFO - - 2025-07-07 19:59:45 PKT+0500
+2025-07-07 19:15:21,929 - INFO - 
+Waiting until 2025-07-07 19:16:21 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-07 19:16:21,928 - INFO - --- Starting upload attempt 1 for scheduled time 19:16:21 ---
+2025-07-07 19:16:24,821 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:16:32,837 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:16:32,838 - INFO - Already uploaded video filenames (from log): {'4.mp4'}
+2025-07-07 19:16:32,838 - INFO - Next channel video number for title: 17
+2025-07-07 19:16:32,839 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:16:32,839 - INFO - Next video file to upload: /home/kali/Desktop/video/5.mp4
+2025-07-07 19:16:32,839 - INFO - Attempting to click the upload icon...
+2025-07-07 19:16:33,917 - INFO - Successfully clicked the upload icon.
+2025-07-07 19:16:36,917 - INFO - Attempting to upload video file: /home/kali/Desktop/video/5.mp4
+2025-07-07 19:16:37,301 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-07 19:16:47,302 - INFO - Attempting to update video title to include channel number 17...
+2025-07-07 19:16:48,195 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 17'
+2025-07-07 19:16:50,195 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-07 19:16:50,649 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-07 19:16:52,649 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-07 19:16:52,969 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-07 19:16:54,969 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-07 19:16:55,342 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-07 19:16:57,343 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-07 19:16:57,678 - INFO - Successfully clicked the final button.
+2025-07-07 19:17:02,679 - INFO - Logged '5.mp4' as uploaded with error status.
+2025-07-07 19:17:02,680 - INFO - Updated channel video counter to: 18
+2025-07-07 19:17:05,662 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 19:17:06,525 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-07 19:17:06,526 - INFO - 
+Waiting until 2025-07-07 19:27:35 PKT+0500 (PKT) for next upload (2/5)...
+2025-07-07 19:27:35,928 - INFO - --- Starting upload attempt 1 for scheduled time 19:27:35 ---
+2025-07-07 19:27:37,742 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:27:44,335 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:27:44,336 - INFO - Already uploaded video filenames (from log): {'5.mp4', '4.mp4'}
+2025-07-07 19:27:44,336 - INFO - Next channel video number for title: 18
+2025-07-07 19:27:44,338 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:27:44,339 - INFO - Next video file to upload: /home/kali/Desktop/video/6.mp4
+2025-07-07 19:27:44,339 - INFO - Attempting to click the upload icon...
+2025-07-07 19:27:45,403 - INFO - Successfully clicked the upload icon.
+2025-07-07 19:27:48,403 - INFO - Attempting to upload video file: /home/kali/Desktop/video/6.mp4
+2025-07-07 19:27:48,755 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-07 19:27:58,756 - INFO - Attempting to update video title to include channel number 18...
+2025-07-07 19:27:59,455 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 18'
+2025-07-07 19:28:01,455 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-07 19:28:01,841 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-07 19:28:03,841 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-07 19:28:04,168 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-07 19:28:06,168 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-07 19:28:06,541 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-07 19:28:08,541 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-07 19:28:08,874 - INFO - Successfully clicked the final button.
+2025-07-07 19:28:13,874 - INFO - Logged '6.mp4' as uploaded with error status.
+2025-07-07 19:28:13,875 - INFO - Updated channel video counter to: 19
+2025-07-07 19:28:16,201 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 19:28:16,777 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-07 19:28:16,778 - INFO - 
+Waiting until 2025-07-07 19:55:36 PKT+0500 (PKT) for next upload (3/5)...
+2025-07-07 19:55:36,928 - INFO - --- Starting upload attempt 1 for scheduled time 19:55:36 ---
+2025-07-07 19:55:39,430 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:55:53,017 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:55:53,018 - INFO - Already uploaded video filenames (from log): {'5.mp4', '4.mp4', '6.mp4'}
+2025-07-07 19:55:53,019 - INFO - Next channel video number for title: 19
+2025-07-07 19:55:53,020 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:55:53,020 - INFO - Next video file to upload: /home/kali/Desktop/video/7.mp4
+2025-07-07 19:55:53,020 - INFO - Attempting to click the upload icon...
+2025-07-07 19:55:54,033 - INFO - Successfully clicked the upload icon.
+2025-07-07 19:55:57,033 - INFO - Attempting to upload video file: /home/kali/Desktop/video/7.mp4
+2025-07-07 19:55:57,440 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-07 19:56:07,441 - INFO - Attempting to update video title to include channel number 19...
+2025-07-07 19:56:08,237 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 19'
+2025-07-07 19:56:10,237 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-07 19:56:10,654 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-07 19:56:12,654 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-07 19:56:12,969 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-07 19:56:14,969 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-07 19:56:15,310 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-07 19:56:17,310 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-07 19:56:17,625 - INFO - Successfully clicked the final button.
+2025-07-07 19:56:22,625 - INFO - Logged '7.mp4' as uploaded with error status.
+2025-07-07 19:56:22,626 - INFO - Updated channel video counter to: 20
+2025-07-07 19:56:26,017 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 19:56:26,475 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-07 19:56:26,475 - INFO - 
+Waiting until 2025-07-07 19:58:23 PKT+0500 (PKT) for next upload (4/5)...
+2025-07-07 19:58:23,928 - INFO - --- Starting upload attempt 1 for scheduled time 19:58:23 ---
+2025-07-07 19:58:25,740 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:58:32,598 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:58:32,598 - INFO - Already uploaded video filenames (from log): {'5.mp4', '4.mp4', '6.mp4', '7.mp4'}
+2025-07-07 19:58:32,598 - INFO - Next channel video number for title: 20
+2025-07-07 19:58:32,598 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:58:32,599 - INFO - Next video file to upload: /home/kali/Desktop/video/8.mp4
+2025-07-07 19:58:32,599 - INFO - Attempting to click the upload icon...
+2025-07-07 19:58:33,646 - INFO - Successfully clicked the upload icon.
+2025-07-07 19:58:36,647 - INFO - Attempting to upload video file: /home/kali/Desktop/video/8.mp4
+2025-07-07 19:58:37,103 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-07 19:58:47,104 - INFO - Attempting to update video title to include channel number 20...
+2025-07-07 19:58:48,065 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 20'
+2025-07-07 19:58:50,065 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-07 19:58:50,467 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-07 19:58:52,468 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-07 19:58:52,792 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-07 19:58:54,792 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-07 19:58:55,195 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-07 19:58:57,196 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-07 19:58:57,515 - INFO - Successfully clicked the final button.
+2025-07-07 19:59:02,516 - INFO - Logged '8.mp4' as uploaded with error status.
+2025-07-07 19:59:02,517 - INFO - Updated channel video counter to: 21
+2025-07-07 19:59:06,298 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 19:59:07,292 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-07 19:59:07,293 - INFO - 
+Waiting until 2025-07-07 19:59:45 PKT+0500 (PKT) for next upload (5/5)...
+2025-07-07 19:59:45,928 - INFO - --- Starting upload attempt 1 for scheduled time 19:59:45 ---
+2025-07-07 19:59:47,775 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-07 19:59:53,458 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-07 19:59:53,460 - INFO - Already uploaded video filenames (from log): {'4.mp4', '8.mp4', '5.mp4', '6.mp4', '7.mp4'}
+2025-07-07 19:59:53,460 - INFO - Next channel video number for title: 21
+2025-07-07 19:59:53,461 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-07 19:59:53,462 - INFO - Next video file to upload: /home/kali/Desktop/video/9.mp4
+2025-07-07 19:59:53,462 - INFO - Attempting to click the upload icon...
+2025-07-07 19:59:54,934 - INFO - Successfully clicked the upload icon.
+2025-07-07 19:59:57,935 - INFO - Attempting to upload video file: /home/kali/Desktop/video/9.mp4
+2025-07-07 19:59:57,986 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-07 20:00:07,987 - INFO - Attempting to update video title to include channel number 21...
+2025-07-07 20:00:08,713 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 21'
+2025-07-07 20:00:10,714 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-07 20:00:11,128 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-07 20:00:13,128 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-07 20:00:13,446 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-07 20:00:15,446 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-07 20:00:15,822 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-07 20:00:17,823 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-07 20:00:18,153 - INFO - Successfully clicked the final button.
+2025-07-07 20:00:23,154 - INFO - Logged '9.mp4' as uploaded with error status.
+2025-07-07 20:00:23,155 - INFO - Updated channel video counter to: 22
+2025-07-07 20:00:25,642 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-07 20:00:26,159 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-07 20:00:26,159 - INFO - 
+All scheduled uploads for today have been attempted.
+2025-07-07 20:00:31,479 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-07 20:00:31,495 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-07 20:00:31,495 - INFO - Generated 5 upload times for today (PKT):
+2025-07-07 20:00:31,495 - INFO - - 2025-07-08 11:24:46 PKT+0500
+2025-07-07 20:00:31,495 - INFO - - 2025-07-08 11:35:54 PKT+0500
+2025-07-07 20:00:31,495 - INFO - - 2025-07-08 13:51:49 PKT+0500
+2025-07-07 20:00:31,495 - INFO - - 2025-07-08 15:43:20 PKT+0500
+2025-07-07 20:00:31,495 - INFO - - 2025-07-08 17:32:49 PKT+0500
+2025-07-07 20:00:31,496 - INFO - 
+Waiting until 2025-07-08 11:24:46 PKT+0500 (PKT) for next upload (1/5)...
+2025-05-11 16:05:55,759 - INFO - Starting YouTube Shorts daily scheduler...
+2025-05-11 16:05:55,784 - INFO - Scheduling uploads from now (16:05:55) until 8 PM PKT today.
+2025-05-11 16:05:55,784 - INFO - Generated 5 upload times for today (PKT):
+2025-05-11 16:05:55,785 - INFO - - 2025-05-11 17:12:06 PKT+0500
+2025-05-11 16:05:55,785 - INFO - - 2025-05-11 17:59:11 PKT+0500
+2025-05-11 16:05:55,786 - INFO - - 2025-05-11 18:47:04 PKT+0500
+2025-05-11 16:05:55,786 - INFO - - 2025-05-11 18:53:12 PKT+0500
+2025-05-11 16:05:55,786 - INFO - - 2025-05-11 19:47:23 PKT+0500
+2025-05-11 16:05:55,786 - INFO - 
+Waiting until 2025-05-11 17:12:06 PKT+0500 (PKT) for next upload (1/5)...
+2025-05-11 16:05:55,740 - INFO - Starting YouTube Shorts daily scheduler...
+2025-05-11 16:05:55,775 - INFO - Scheduling uploads from now (16:05:55) until 8 PM PKT today.
+2025-05-11 16:05:55,776 - INFO - Generated 5 upload times for today (PKT):
+2025-05-11 16:05:55,777 - INFO - - 2025-05-11 16:47:33 PKT+0500
+2025-05-11 16:05:55,777 - INFO - - 2025-05-11 17:12:17 PKT+0500
+2025-05-11 16:05:55,777 - INFO - - 2025-05-11 17:56:45 PKT+0500
+2025-05-11 16:05:55,777 - INFO - - 2025-05-11 18:30:13 PKT+0500
+2025-05-11 16:05:55,777 - INFO - - 2025-05-11 19:48:13 PKT+0500
+2025-05-11 16:05:55,778 - INFO - 
+Waiting until 2025-05-11 16:47:33 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-08 09:00:52,234 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-08 09:00:52,250 - INFO - Scheduling uploads from now (09:00:52) until 8 PM PKT today.
+2025-07-08 09:00:52,250 - INFO - Generated 5 upload times for today (PKT):
+2025-07-08 09:00:52,250 - INFO - - 2025-07-08 11:41:30 PKT+0500
+2025-07-08 09:00:52,250 - INFO - - 2025-07-08 14:35:40 PKT+0500
+2025-07-08 09:00:52,250 - INFO - - 2025-07-08 14:50:20 PKT+0500
+2025-07-08 09:00:52,250 - INFO - - 2025-07-08 16:39:10 PKT+0500
+2025-07-08 09:00:52,250 - INFO - - 2025-07-08 18:08:59 PKT+0500
+2025-07-08 09:00:52,250 - INFO - 
+Waiting until 2025-07-08 11:41:30 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-08 11:41:30,250 - INFO - --- Starting upload attempt 1 for scheduled time 11:41:30 ---
+2025-07-08 11:41:33,785 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 11:41:44,465 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 11:41:44,467 - INFO - Already uploaded video filenames (from log): {'6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4'}
+2025-07-08 11:41:44,468 - INFO - Next channel video number for title: 22
+2025-07-08 11:41:44,469 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-08 11:41:44,469 - INFO - Next video file to upload: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:41:44,470 - INFO - Attempting to click the upload icon...
+2025-07-08 11:41:45,942 - INFO - Successfully clicked the upload icon.
+2025-07-08 11:41:48,943 - INFO - Attempting to upload video file: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:41:48,988 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 11:41:58,989 - INFO - Attempting to update video title to include channel number 22...
+2025-07-08 11:41:59,701 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 22'
+2025-07-08 11:42:01,702 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 11:42:12,065 - ERROR - An error occurred during YouTube upload process for video '10.mp4' (Channel # 22): Message: 
+
+2025-07-08 11:42:14,302 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 11:42:14,814 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 11:42:14,814 - INFO - Retrying in 300 seconds...
+2025-07-08 11:47:14,815 - INFO - --- Starting upload attempt 2 for scheduled time 11:41:30 ---
+2025-07-08 11:47:16,702 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 11:47:22,262 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 11:47:22,262 - INFO - Already uploaded video filenames (from log): {'6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4'}
+2025-07-08 11:47:22,262 - INFO - Next channel video number for title: 22
+2025-07-08 11:47:22,263 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-08 11:47:22,263 - INFO - Next video file to upload: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:47:22,263 - INFO - Attempting to click the upload icon...
+2025-07-08 11:47:23,714 - INFO - Successfully clicked the upload icon.
+2025-07-08 11:47:26,715 - INFO - Attempting to upload video file: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:47:26,767 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 11:47:36,768 - INFO - Attempting to update video title to include channel number 22...
+2025-07-08 11:47:37,483 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 22'
+2025-07-08 11:47:39,483 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 11:47:49,842 - ERROR - An error occurred during YouTube upload process for video '10.mp4' (Channel # 22): Message: 
+
+2025-07-08 11:47:52,124 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 11:47:52,623 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 11:47:52,623 - INFO - Retrying in 300 seconds...
+2025-07-08 11:52:52,623 - INFO - --- Starting upload attempt 3 for scheduled time 11:41:30 ---
+2025-07-08 11:52:54,490 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 11:53:06,939 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 11:53:06,940 - INFO - Already uploaded video filenames (from log): {'6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4'}
+2025-07-08 11:53:06,940 - INFO - Next channel video number for title: 22
+2025-07-08 11:53:06,941 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-08 11:53:06,941 - INFO - Next video file to upload: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:53:06,941 - INFO - Attempting to click the upload icon...
+2025-07-08 11:53:08,419 - INFO - Successfully clicked the upload icon.
+2025-07-08 11:53:11,419 - INFO - Attempting to upload video file: /home/kali/Desktop/video/10.mp4
+2025-07-08 11:53:11,460 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 11:53:21,460 - INFO - Attempting to update video title to include channel number 22...
+2025-07-08 11:53:22,143 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 22'
+2025-07-08 11:53:24,144 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 11:53:34,498 - ERROR - An error occurred during YouTube upload process for video '10.mp4' (Channel # 22): Message: 
+
+2025-07-08 11:53:37,367 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 11:53:37,880 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 11:53:37,881 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-08 11:53:37,881 - INFO - 
+Waiting until 2025-07-08 14:35:40 PKT+0500 (PKT) for next upload (2/5)...
+2025-07-08 14:35:40,250 - INFO - --- Starting upload attempt 1 for scheduled time 14:35:40 ---
+2025-07-08 14:35:43,106 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 14:35:49,143 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 14:35:49,145 - INFO - Already uploaded video filenames (from log): {'6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4'}
+2025-07-08 14:35:49,147 - INFO - Next channel video number for title: 22
+2025-07-08 14:35:49,147 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-08 14:35:49,147 - INFO - Next video file to upload: /home/kali/Desktop/video/10.mp4
+2025-07-08 14:35:49,147 - INFO - Attempting to click the upload icon...
+2025-07-08 14:35:50,948 - INFO - Successfully clicked the upload icon.
+2025-07-08 14:35:53,948 - INFO - Attempting to upload video file: /home/kali/Desktop/video/10.mp4
+2025-07-08 14:35:54,012 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 14:36:04,013 - INFO - Attempting to update video title to include channel number 22...
+2025-07-08 14:36:04,840 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 22'
+2025-07-08 14:36:06,840 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 14:36:07,271 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 14:36:09,272 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 14:36:09,590 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 14:36:11,590 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 14:36:11,956 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 14:36:13,957 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 14:36:14,292 - INFO - Successfully clicked the final button.
+2025-07-08 14:36:19,293 - INFO - Logged '10.mp4' as uploaded with error status.
+2025-07-08 14:36:19,293 - INFO - Updated channel video counter to: 23
+2025-07-08 14:36:21,616 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 14:36:22,208 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 14:36:22,209 - INFO - 
+Waiting until 2025-07-08 14:50:20 PKT+0500 (PKT) for next upload (3/5)...
+2025-07-08 14:50:20,254 - INFO - --- Starting upload attempt 1 for scheduled time 14:50:20 ---
+2025-07-08 14:50:22,488 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 14:50:35,795 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 14:50:35,796 - INFO - Already uploaded video filenames (from log): {'10.mp4', '6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4'}
+2025-07-08 14:50:35,799 - INFO - Next channel video number for title: 23
+2025-07-08 14:50:35,800 - INFO - All detected video files (sorted): ['4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', '10.mp4', '11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4']
+2025-07-08 14:50:35,801 - INFO - Next video file to upload: /home/kali/Desktop/video/11.mp4
+2025-07-08 14:50:35,801 - INFO - Attempting to click the upload icon...
+2025-07-08 14:50:37,177 - INFO - Successfully clicked the upload icon.
+2025-07-08 14:50:40,177 - INFO - Attempting to upload video file: /home/kali/Desktop/video/11.mp4
+2025-07-08 14:50:40,231 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 14:50:50,231 - INFO - Attempting to update video title to include channel number 23...
+2025-07-08 14:50:51,066 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 23'
+2025-07-08 14:50:53,066 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 14:50:53,450 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 14:50:55,450 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 14:50:55,762 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 14:50:57,763 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 14:50:58,142 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 14:51:00,142 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 14:51:00,454 - INFO - Successfully clicked the final button.
+2025-07-08 14:51:05,455 - INFO - Logged '11.mp4' as uploaded with error status.
+2025-07-08 14:51:05,456 - INFO - Updated channel video counter to: 24
+2025-07-08 14:51:11,371 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 14:51:12,170 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 14:51:12,171 - INFO - 
+Waiting until 2025-07-08 16:39:10 PKT+0500 (PKT) for next upload (4/5)...
+2025-07-08 16:39:10,250 - INFO - --- Starting upload attempt 1 for scheduled time 16:39:10 ---
+2025-07-08 16:39:12,629 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 16:39:20,182 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 16:39:20,183 - INFO - Already uploaded video filenames (from log): {'10.mp4', '6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4', '11.mp4'}
+2025-07-08 16:39:20,184 - INFO - Next channel video number for title: 24
+2025-07-08 16:39:20,184 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 16:39:20,185 - INFO - Next video file to upload: /home/kali/Desktop/video/12.mp4
+2025-07-08 16:39:20,185 - INFO - Attempting to click the upload icon...
+2025-07-08 16:39:21,051 - INFO - Successfully clicked the upload icon.
+2025-07-08 16:39:24,052 - INFO - Attempting to upload video file: /home/kali/Desktop/video/12.mp4
+2025-07-08 16:39:24,110 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 16:39:34,110 - INFO - Attempting to update video title to include channel number 24...
+2025-07-08 16:39:34,779 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 24'
+2025-07-08 16:39:36,779 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 16:39:37,156 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 16:39:39,157 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 16:39:39,523 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 16:39:41,523 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 16:39:41,877 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 16:39:43,878 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 16:39:44,179 - INFO - Successfully clicked the final button.
+2025-07-08 16:39:49,180 - INFO - Logged '12.mp4' as uploaded with error status.
+2025-07-08 16:39:49,181 - INFO - Updated channel video counter to: 25
+2025-07-08 16:39:53,749 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 16:39:54,384 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 16:39:54,384 - INFO - 
+Waiting until 2025-07-08 18:08:59 PKT+0500 (PKT) for next upload (5/5)...
+2025-07-08 18:08:59,250 - INFO - --- Starting upload attempt 1 for scheduled time 18:08:59 ---
+2025-07-08 18:10:19,022 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 18:10:26,176 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 18:10:26,176 - INFO - Already uploaded video filenames (from log): {'10.mp4', '6.mp4', '5.mp4', '7.mp4', '9.mp4', '4.mp4', '8.mp4', '12.mp4', '11.mp4'}
+2025-07-08 18:10:26,176 - INFO - Next channel video number for title: 25
+2025-07-08 18:10:26,177 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 18:10:26,177 - INFO - Next video file to upload: /home/kali/Desktop/video/13.mp4
+2025-07-08 18:10:26,177 - INFO - Attempting to click the upload icon...
+2025-07-08 18:10:27,517 - INFO - Successfully clicked the upload icon.
+2025-07-08 18:10:30,518 - INFO - Attempting to upload video file: /home/kali/Desktop/video/13.mp4
+2025-07-08 18:10:30,573 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 18:10:40,574 - INFO - Attempting to update video title to include channel number 25...
+2025-07-08 18:10:41,369 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 25'
+2025-07-08 18:10:43,370 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 18:10:43,768 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 18:10:45,769 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 18:10:46,084 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 18:10:48,085 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 18:10:48,454 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 18:10:50,454 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 18:10:50,742 - INFO - Successfully clicked the final button.
+2025-07-08 18:10:55,743 - INFO - Logged '13.mp4' as uploaded with error status.
+2025-07-08 18:10:55,743 - INFO - Updated channel video counter to: 26
+2025-07-08 18:10:58,786 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 18:10:59,803 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 18:10:59,803 - INFO - 
+All scheduled uploads for today have been attempted.
+2025-07-08 18:11:05,501 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-08 18:11:05,518 - INFO - Scheduling uploads from now (18:11:05) until 8 PM PKT today.
+2025-07-08 18:11:05,518 - INFO - Generated 5 upload times for today (PKT):
+2025-07-08 18:11:05,519 - INFO - - 2025-07-08 18:38:12 PKT+0500
+2025-07-08 18:11:05,519 - INFO - - 2025-07-08 18:42:31 PKT+0500
+2025-07-08 18:11:05,519 - INFO - - 2025-07-08 18:48:32 PKT+0500
+2025-07-08 18:11:05,519 - INFO - - 2025-07-08 19:17:56 PKT+0500
+2025-07-08 18:11:05,519 - INFO - - 2025-07-08 19:48:42 PKT+0500
+2025-07-08 18:11:05,519 - INFO - 
+Waiting until 2025-07-08 18:38:12 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-08 18:38:12,518 - INFO - --- Starting upload attempt 1 for scheduled time 18:38:12 ---
+2025-07-08 18:38:14,229 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 18:38:25,370 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 18:38:25,370 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '11.mp4', '10.mp4', '6.mp4', '5.mp4', '12.mp4', '13.mp4'}
+2025-07-08 18:38:25,370 - INFO - Next channel video number for title: 26
+2025-07-08 18:38:25,371 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 18:38:25,371 - INFO - Next video file to upload: /home/kali/Desktop/video/14.mp4
+2025-07-08 18:38:25,371 - INFO - Attempting to click the upload icon...
+2025-07-08 18:38:26,448 - INFO - Successfully clicked the upload icon.
+2025-07-08 18:38:29,448 - INFO - Attempting to upload video file: /home/kali/Desktop/video/14.mp4
+2025-07-08 18:38:29,840 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 18:38:39,840 - INFO - Attempting to update video title to include channel number 26...
+2025-07-08 18:38:40,630 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 26'
+2025-07-08 18:38:42,630 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 18:38:43,018 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 18:38:45,018 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 18:38:45,324 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 18:38:47,324 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 18:38:47,697 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 18:38:49,697 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 18:38:50,008 - INFO - Successfully clicked the final button.
+2025-07-08 18:38:55,008 - INFO - Logged '14.mp4' as uploaded with error status.
+2025-07-08 18:38:55,009 - INFO - Updated channel video counter to: 27
+2025-07-08 18:38:57,485 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 18:39:00,248 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 18:39:00,248 - INFO - 
+Waiting until 2025-07-08 18:42:31 PKT+0500 (PKT) for next upload (2/5)...
+2025-07-08 18:42:31,518 - INFO - --- Starting upload attempt 1 for scheduled time 18:42:31 ---
+2025-07-08 18:42:33,307 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 18:42:39,424 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 18:42:39,424 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '14.mp4', '11.mp4', '10.mp4', '6.mp4', '5.mp4', '12.mp4', '13.mp4'}
+2025-07-08 18:42:39,425 - INFO - Next channel video number for title: 27
+2025-07-08 18:42:39,425 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 18:42:39,426 - INFO - Next video file to upload: /home/kali/Desktop/video/15.mp4
+2025-07-08 18:42:39,426 - INFO - Attempting to click the upload icon...
+2025-07-08 18:42:40,730 - INFO - Successfully clicked the upload icon.
+2025-07-08 18:42:43,731 - INFO - Attempting to upload video file: /home/kali/Desktop/video/15.mp4
+2025-07-08 18:42:43,886 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 18:42:53,886 - INFO - Attempting to update video title to include channel number 27...
+2025-07-08 18:42:54,643 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 27'
+2025-07-08 18:42:56,644 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 18:42:57,058 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 18:42:59,058 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 18:42:59,413 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 18:43:01,413 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 18:43:01,793 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 18:43:03,793 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 18:43:04,127 - INFO - Successfully clicked the final button.
+2025-07-08 18:43:09,127 - INFO - Logged '15.mp4' as uploaded with error status.
+2025-07-08 18:43:09,128 - INFO - Updated channel video counter to: 28
+2025-07-08 18:43:11,350 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 18:43:11,904 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 18:43:11,904 - INFO - 
+Waiting until 2025-07-08 18:48:32 PKT+0500 (PKT) for next upload (3/5)...
+2025-07-08 18:48:32,518 - INFO - --- Starting upload attempt 1 for scheduled time 18:48:32 ---
+2025-07-08 18:48:34,219 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 18:48:40,492 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 18:48:40,493 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '14.mp4', '11.mp4', '15.mp4', '10.mp4', '6.mp4', '5.mp4', '12.mp4', '13.mp4'}
+2025-07-08 18:48:40,495 - INFO - Next channel video number for title: 28
+2025-07-08 18:48:40,497 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 18:48:40,497 - INFO - Next video file to upload: /home/kali/Desktop/video/16.mp4
+2025-07-08 18:48:40,497 - INFO - Attempting to click the upload icon...
+2025-07-08 18:48:41,695 - INFO - Successfully clicked the upload icon.
+2025-07-08 18:48:44,695 - INFO - Attempting to upload video file: /home/kali/Desktop/video/16.mp4
+2025-07-08 18:48:44,936 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 18:48:54,936 - INFO - Attempting to update video title to include channel number 28...
+2025-07-08 18:48:55,630 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 28'
+2025-07-08 18:48:57,630 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 18:48:58,012 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 18:49:00,013 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 18:49:00,376 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 18:49:02,376 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 18:49:02,787 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 18:49:04,787 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 18:49:05,116 - INFO - Successfully clicked the final button.
+2025-07-08 18:49:10,116 - INFO - Logged '16.mp4' as uploaded with error status.
+2025-07-08 18:49:10,117 - INFO - Updated channel video counter to: 29
+2025-07-08 18:49:12,379 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 18:49:12,937 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 18:49:12,937 - INFO - 
+Waiting until 2025-07-08 19:17:56 PKT+0500 (PKT) for next upload (4/5)...
+2025-07-08 19:17:56,518 - INFO - --- Starting upload attempt 1 for scheduled time 19:17:56 ---
+2025-07-08 19:17:59,089 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:18:20,367 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:18:20,367 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '14.mp4', '11.mp4', '15.mp4', '10.mp4', '6.mp4', '16.mp4', '5.mp4', '12.mp4', '13.mp4'}
+2025-07-08 19:18:20,368 - INFO - Next channel video number for title: 29
+2025-07-08 19:18:20,368 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:18:20,368 - INFO - Next video file to upload: /home/kali/Desktop/video/17.mp4
+2025-07-08 19:18:20,368 - INFO - Attempting to click the upload icon...
+2025-07-08 19:18:20,998 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:18:23,999 - INFO - Attempting to upload video file: /home/kali/Desktop/video/17.mp4
+2025-07-08 19:18:24,097 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:18:34,098 - INFO - Attempting to update video title to include channel number 29...
+2025-07-08 19:18:34,932 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 29'
+2025-07-08 19:18:36,932 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:18:37,384 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:18:39,384 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:18:39,718 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:18:41,719 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:18:42,118 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:18:44,118 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:18:44,456 - INFO - Successfully clicked the final button.
+2025-07-08 19:18:49,456 - INFO - Logged '17.mp4' as uploaded with error status.
+2025-07-08 19:18:49,457 - INFO - Updated channel video counter to: 30
+2025-07-08 19:18:52,165 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 19:18:52,863 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 19:18:52,864 - INFO - 
+Waiting until 2025-07-08 19:48:42 PKT+0500 (PKT) for next upload (5/5)...
+2025-07-08 19:48:42,518 - INFO - --- Starting upload attempt 1 for scheduled time 19:48:42 ---
+2025-07-08 19:48:44,555 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:50:10,344 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:50:10,345 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '14.mp4', '11.mp4', '15.mp4', '10.mp4', '6.mp4', '16.mp4', '5.mp4', '17.mp4', '12.mp4', '13.mp4'}
+2025-07-08 19:50:10,346 - INFO - Next channel video number for title: 30
+2025-07-08 19:50:10,347 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:50:10,347 - INFO - Next video file to upload: /home/kali/Desktop/video/18.mp4
+2025-07-08 19:50:10,347 - INFO - Attempting to click the upload icon...
+2025-07-08 19:50:11,156 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:50:14,156 - INFO - Attempting to upload video file: /home/kali/Desktop/video/18.mp4
+2025-07-08 19:50:14,232 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:50:24,233 - INFO - Attempting to update video title to include channel number 30...
+2025-07-08 19:50:40,013 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 30'
+2025-07-08 19:50:42,013 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:50:42,348 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:50:44,348 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:50:54,454 - ERROR - An error occurred during YouTube upload process for video '18.mp4' (Channel # 30): Message: 
+
+2025-07-08 19:51:14,494 - ERROR - Failed to send email notification: [Errno -3] Temporary failure in name resolution
+2025-07-08 19:51:14,494 - ERROR - Please check your email configuration (sender email, password, recipient, SMTP server/port).
+2025-07-08 19:51:17,092 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 19:51:17,092 - INFO - Retrying in 300 seconds...
+2025-07-08 19:56:17,093 - INFO - --- Starting upload attempt 2 for scheduled time 19:48:42 ---
+2025-07-08 19:56:18,961 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:56:25,163 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:56:25,163 - INFO - Already uploaded video filenames (from log): {'9.mp4', '7.mp4', '4.mp4', '8.mp4', '14.mp4', '11.mp4', '15.mp4', '10.mp4', '6.mp4', '16.mp4', '5.mp4', '17.mp4', '12.mp4', '13.mp4'}
+2025-07-08 19:56:25,164 - INFO - Next channel video number for title: 30
+2025-07-08 19:56:25,166 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:56:25,166 - INFO - Next video file to upload: /home/kali/Desktop/video/18.mp4
+2025-07-08 19:56:25,166 - INFO - Attempting to click the upload icon...
+2025-07-08 19:56:25,696 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:56:28,696 - INFO - Attempting to upload video file: /home/kali/Desktop/video/18.mp4
+2025-07-08 19:56:29,218 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:56:39,219 - INFO - Attempting to update video title to include channel number 30...
+2025-07-08 19:56:40,072 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 30'
+2025-07-08 19:56:42,073 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:56:42,469 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:56:44,469 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:56:44,751 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:56:46,751 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:56:47,074 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:56:49,074 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:56:49,406 - INFO - Successfully clicked the final button.
+2025-07-08 19:56:54,406 - INFO - Logged '18.mp4' as uploaded with error status.
+2025-07-08 19:56:54,407 - INFO - Updated channel video counter to: 31
+2025-07-08 19:57:03,304 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 19:57:04,031 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 19:57:04,031 - INFO - 
+All scheduled uploads for today have been attempted.
+2025-07-08 19:57:09,364 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-08 19:57:09,381 - INFO - Scheduling uploads from now (19:57:09) until 8 PM PKT today.
+2025-07-08 19:57:09,381 - INFO - Generated 5 upload times for today (PKT):
+2025-07-08 19:57:09,381 - INFO - - 2025-07-08 19:57:10 PKT+0500
+2025-07-08 19:57:09,381 - INFO - - 2025-07-08 19:57:41 PKT+0500
+2025-07-08 19:57:09,382 - INFO - - 2025-07-08 19:57:56 PKT+0500
+2025-07-08 19:57:09,382 - INFO - - 2025-07-08 19:58:31 PKT+0500
+2025-07-08 19:57:09,382 - INFO - - 2025-07-08 19:59:55 PKT+0500
+2025-07-08 19:57:09,382 - INFO - 
+Waiting until 2025-07-08 19:57:10 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-08 19:57:10,381 - INFO - --- Starting upload attempt 1 for scheduled time 19:57:10 ---
+2025-07-08 19:57:12,394 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:57:18,049 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:57:18,050 - INFO - Already uploaded video filenames (from log): {'9.mp4', '14.mp4', '4.mp4', '5.mp4', '6.mp4', '12.mp4', '18.mp4', '13.mp4', '8.mp4', '11.mp4', '16.mp4', '7.mp4', '15.mp4', '17.mp4', '10.mp4'}
+2025-07-08 19:57:18,051 - INFO - Next channel video number for title: 31
+2025-07-08 19:57:18,052 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:57:18,053 - INFO - Next video file to upload: /home/kali/Desktop/video/19.mp4
+2025-07-08 19:57:18,053 - INFO - Attempting to click the upload icon...
+2025-07-08 19:57:19,585 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:57:22,585 - INFO - Attempting to upload video file: /home/kali/Desktop/video/19.mp4
+2025-07-08 19:57:22,652 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:57:32,652 - INFO - Attempting to update video title to include channel number 31...
+2025-07-08 19:57:33,435 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 31'
+2025-07-08 19:57:35,436 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:57:35,865 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:57:37,865 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:57:38,193 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:57:40,193 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:57:40,574 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:57:42,574 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:57:42,910 - INFO - Successfully clicked the final button.
+2025-07-08 19:57:47,911 - INFO - Logged '19.mp4' as uploaded with error status.
+2025-07-08 19:57:47,911 - INFO - Updated channel video counter to: 32
+2025-07-08 19:57:51,100 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 19:57:51,638 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 19:57:51,638 - INFO - 
+Scheduled time 2025-07-08 19:57:41 PKT+0500 is in the past. Attempting upload immediately (2/5).
+2025-07-08 19:57:51,638 - INFO - --- Starting upload attempt 1 for scheduled time 19:57:41 ---
+2025-07-08 19:57:53,650 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:57:59,891 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:57:59,891 - INFO - Already uploaded video filenames (from log): {'9.mp4', '14.mp4', '4.mp4', '5.mp4', '6.mp4', '12.mp4', '18.mp4', '13.mp4', '8.mp4', '11.mp4', '16.mp4', '7.mp4', '15.mp4', '19.mp4', '17.mp4', '10.mp4'}
+2025-07-08 19:57:59,892 - INFO - Next channel video number for title: 32
+2025-07-08 19:57:59,892 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:57:59,892 - INFO - Next video file to upload: /home/kali/Desktop/video/20.mp4
+2025-07-08 19:57:59,892 - INFO - Attempting to click the upload icon...
+2025-07-08 19:58:01,422 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:58:04,423 - INFO - Attempting to upload video file: /home/kali/Desktop/video/20.mp4
+2025-07-08 19:58:04,493 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:58:14,494 - INFO - Attempting to update video title to include channel number 32...
+2025-07-08 19:58:15,353 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 32'
+2025-07-08 19:58:17,353 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:58:17,788 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:58:19,788 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:58:20,108 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:58:22,109 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:58:22,527 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:58:24,527 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:58:24,911 - INFO - Successfully clicked the final button.
+2025-07-08 19:58:29,912 - INFO - Logged '20.mp4' as uploaded with error status.
+2025-07-08 19:58:29,913 - INFO - Updated channel video counter to: 33
+2025-07-08 19:58:34,142 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 19:58:34,853 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 19:58:34,854 - INFO - 
+Scheduled time 2025-07-08 19:57:56 PKT+0500 is in the past. Attempting upload immediately (3/5).
+2025-07-08 19:58:34,854 - INFO - --- Starting upload attempt 1 for scheduled time 19:57:56 ---
+2025-07-08 19:58:36,878 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:58:42,987 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:58:42,987 - INFO - Already uploaded video filenames (from log): {'9.mp4', '14.mp4', '4.mp4', '5.mp4', '6.mp4', '12.mp4', '18.mp4', '20.mp4', '13.mp4', '8.mp4', '11.mp4', '16.mp4', '7.mp4', '15.mp4', '19.mp4', '17.mp4', '10.mp4'}
+2025-07-08 19:58:42,987 - INFO - Next channel video number for title: 33
+2025-07-08 19:58:42,988 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:58:42,988 - INFO - Next video file to upload: /home/kali/Desktop/video/21.mp4
+2025-07-08 19:58:42,988 - INFO - Attempting to click the upload icon...
+2025-07-08 19:58:44,534 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:58:47,534 - INFO - Attempting to upload video file: /home/kali/Desktop/video/21.mp4
+2025-07-08 19:58:47,597 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:58:57,597 - INFO - Attempting to update video title to include channel number 33...
+2025-07-08 19:58:58,427 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 33'
+2025-07-08 19:59:00,427 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:59:00,847 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:59:02,848 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:59:03,210 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:59:05,210 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:59:05,559 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:59:07,559 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:59:07,899 - INFO - Successfully clicked the final button.
+2025-07-08 19:59:12,899 - INFO - Logged '21.mp4' as uploaded with error status.
+2025-07-08 19:59:12,900 - INFO - Updated channel video counter to: 34
+2025-07-08 19:59:17,943 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 19:59:18,429 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 19:59:18,429 - INFO - 
+Scheduled time 2025-07-08 19:58:31 PKT+0500 is in the past. Attempting upload immediately (4/5).
+2025-07-08 19:59:18,430 - INFO - --- Starting upload attempt 1 for scheduled time 19:58:31 ---
+2025-07-08 19:59:20,395 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 19:59:26,706 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-08 19:59:26,706 - INFO - Already uploaded video filenames (from log): {'9.mp4', '14.mp4', '4.mp4', '5.mp4', '6.mp4', '12.mp4', '18.mp4', '20.mp4', '13.mp4', '8.mp4', '11.mp4', '16.mp4', '7.mp4', '15.mp4', '19.mp4', '21.mp4', '17.mp4', '10.mp4'}
+2025-07-08 19:59:26,707 - INFO - Next channel video number for title: 34
+2025-07-08 19:59:26,707 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-08 19:59:26,707 - INFO - Next video file to upload: /home/kali/Desktop/video/22.mp4
+2025-07-08 19:59:26,707 - INFO - Attempting to click the upload icon...
+2025-07-08 19:59:27,837 - INFO - Successfully clicked the upload icon.
+2025-07-08 19:59:30,838 - INFO - Attempting to upload video file: /home/kali/Desktop/video/22.mp4
+2025-07-08 19:59:31,177 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-08 19:59:41,178 - INFO - Attempting to update video title to include channel number 34...
+2025-07-08 19:59:42,064 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 34'
+2025-07-08 19:59:44,065 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-08 19:59:44,500 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-08 19:59:46,501 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-08 19:59:46,807 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-08 19:59:48,807 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-08 19:59:49,182 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-08 19:59:51,182 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-08 19:59:51,525 - INFO - Successfully clicked the final button.
+2025-07-08 19:59:56,526 - INFO - Logged '22.mp4' as uploaded with error status.
+2025-07-08 19:59:56,526 - INFO - Updated channel video counter to: 35
+2025-07-08 20:00:01,125 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 20:00:01,631 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-08 20:00:01,632 - INFO - 
+Scheduled time 2025-07-08 19:59:55 PKT+0500 is in the past. Attempting upload immediately (5/5).
+2025-07-08 20:00:01,632 - INFO - --- Starting upload attempt 1 for scheduled time 19:59:55 ---
+2025-07-08 20:00:03,622 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 20:00:06,625 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-08 20:00:10,238 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 20:00:10,245 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 20:00:10,246 - INFO - Retrying in 300 seconds...
+2025-07-08 20:05:10,246 - INFO - --- Starting upload attempt 2 for scheduled time 19:59:55 ---
+2025-07-08 20:05:12,121 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 20:05:15,124 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-08 20:05:24,635 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 20:05:24,644 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 20:05:24,645 - INFO - Retrying in 300 seconds...
+2025-07-08 20:10:24,645 - INFO - --- Starting upload attempt 3 for scheduled time 19:59:55 ---
+2025-07-08 20:10:26,619 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-08 20:10:29,625 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-08 20:10:37,098 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-08 20:10:37,106 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-08 20:10:37,106 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-08 20:10:37,106 - INFO - 
+All scheduled uploads for today have been attempted.
+2025-07-08 20:10:42,605 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-08 20:10:42,621 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-08 20:10:42,622 - INFO - Generated 5 upload times for today (PKT):
+2025-07-08 20:10:42,622 - INFO - - 2025-07-09 08:30:25 PKT+0500
+2025-07-08 20:10:42,622 - INFO - - 2025-07-09 13:50:12 PKT+0500
+2025-07-08 20:10:42,622 - INFO - - 2025-07-09 14:57:48 PKT+0500
+2025-07-08 20:10:42,622 - INFO - - 2025-07-09 15:17:08 PKT+0500
+2025-07-08 20:10:42,622 - INFO - - 2025-07-09 18:00:40 PKT+0500
+2025-07-08 20:10:42,622 - INFO - 
+Waiting until 2025-07-09 08:30:25 PKT+0500 (PKT) for next upload (1/5)...
+2025-05-11 16:05:55,747 - INFO - Starting YouTube Shorts daily scheduler...
+2025-05-11 16:05:55,770 - INFO - Scheduling uploads from now (16:05:55) until 8 PM PKT today.
+2025-05-11 16:05:55,770 - INFO - Generated 5 upload times for today (PKT):
+2025-05-11 16:05:55,771 - INFO - - 2025-05-11 16:31:25 PKT+0500
+2025-05-11 16:05:55,771 - INFO - - 2025-05-11 16:42:37 PKT+0500
+2025-05-11 16:05:55,771 - INFO - - 2025-05-11 17:55:35 PKT+0500
+2025-05-11 16:05:55,771 - INFO - - 2025-05-11 18:22:02 PKT+0500
+2025-05-11 16:05:55,771 - INFO - - 2025-05-11 18:53:51 PKT+0500
+2025-05-11 16:05:55,771 - INFO - 
+Waiting until 2025-05-11 16:31:25 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 11:33:45,136 - INFO - --- Starting upload attempt 1 for scheduled time 16:31:25 ---
+2025-07-09 11:33:49,013 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 11:33:54,764 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 11:33:54,765 - INFO - Already uploaded video filenames (from log): {'17.mp4', '20.mp4', '5.mp4', '22.mp4', '6.mp4', '4.mp4', '15.mp4', '13.mp4', '21.mp4', '19.mp4', '10.mp4', '11.mp4', '18.mp4', '8.mp4', '16.mp4', '14.mp4', '12.mp4', '9.mp4', '7.mp4'}
+2025-07-09 11:33:54,766 - INFO - Next channel video number for title: 35
+2025-07-09 11:33:54,769 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 11:33:54,770 - INFO - Next video file to upload: /home/kali/Desktop/video/23.mp4
+2025-07-09 11:33:54,770 - INFO - Attempting to click the upload icon...
+2025-07-09 11:33:56,568 - INFO - Successfully clicked the upload icon.
+2025-07-09 11:33:59,568 - INFO - Attempting to upload video file: /home/kali/Desktop/video/23.mp4
+2025-07-09 11:33:59,631 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 11:34:09,632 - INFO - Attempting to update video title to include channel number 35...
+2025-07-09 11:34:10,657 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 35'
+2025-07-09 11:34:12,657 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 11:34:13,059 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 11:34:15,059 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 11:34:15,381 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 11:34:17,382 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 11:34:17,785 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 11:34:19,785 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 11:34:20,124 - INFO - Successfully clicked the final button.
+2025-07-09 11:34:25,125 - INFO - Logged '23.mp4' as uploaded with error status.
+2025-07-09 11:34:25,126 - INFO - Updated channel video counter to: 36
+2025-07-09 11:34:30,928 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 11:34:33,599 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 11:34:33,599 - INFO - 
+Scheduled time 2025-05-11 16:42:37 PKT+0500 is in the past. Attempting upload immediately (2/5).
+2025-07-09 11:34:33,599 - INFO - --- Starting upload attempt 1 for scheduled time 16:42:37 ---
+2025-07-09 11:34:35,595 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 11:34:46,207 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 11:34:46,208 - INFO - Already uploaded video filenames (from log): {'17.mp4', '20.mp4', '5.mp4', '22.mp4', '6.mp4', '4.mp4', '15.mp4', '13.mp4', '21.mp4', '19.mp4', '23.mp4', '10.mp4', '11.mp4', '18.mp4', '8.mp4', '16.mp4', '14.mp4', '12.mp4', '9.mp4', '7.mp4'}
+2025-07-09 11:34:46,209 - INFO - Next channel video number for title: 36
+2025-07-09 11:34:46,211 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 11:34:46,211 - INFO - Next video file to upload: /home/kali/Desktop/video/24.mp4
+2025-07-09 11:34:46,211 - INFO - Attempting to click the upload icon...
+2025-07-09 11:34:46,817 - INFO - Successfully clicked the upload icon.
+2025-07-09 11:34:49,818 - INFO - Attempting to upload video file: /home/kali/Desktop/video/24.mp4
+2025-07-09 11:34:49,931 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 11:34:59,931 - INFO - Attempting to update video title to include channel number 36...
+2025-07-09 11:35:00,688 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 36'
+2025-07-09 11:35:02,688 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 11:35:03,082 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 11:35:05,083 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 11:35:05,408 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 11:35:07,408 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 11:35:07,794 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 11:35:09,794 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 11:35:10,116 - INFO - Successfully clicked the final button.
+2025-07-09 11:35:15,117 - INFO - Logged '24.mp4' as uploaded with error status.
+2025-07-09 11:35:15,117 - INFO - Updated channel video counter to: 37
+2025-07-09 11:35:18,327 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 11:35:20,799 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 11:35:20,800 - INFO - 
+Scheduled time 2025-05-11 17:55:35 PKT+0500 is in the past. Attempting upload immediately (3/5).
+2025-07-09 11:35:20,800 - INFO - --- Starting upload attempt 1 for scheduled time 17:55:35 ---
+2025-07-09 11:35:22,822 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 11:35:25,825 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 11:35:28,482 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 11:35:28,490 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 11:35:28,491 - INFO - Retrying in 300 seconds...
+2025-07-09 11:40:28,491 - INFO - --- Starting upload attempt 2 for scheduled time 17:55:35 ---
+2025-07-09 11:40:30,647 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 11:40:33,650 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 11:41:11,150 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 11:41:11,166 - INFO - Scheduling uploads from now (11:41:11) until 8 PM PKT today.
+2025-07-09 11:41:11,166 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 11:41:11,166 - INFO - - 2025-07-09 12:37:38 PKT+0500
+2025-07-09 11:41:11,167 - INFO - - 2025-07-09 15:58:07 PKT+0500
+2025-07-09 11:41:11,167 - INFO - - 2025-07-09 17:05:42 PKT+0500
+2025-07-09 11:41:11,167 - INFO - - 2025-07-09 17:29:38 PKT+0500
+2025-07-09 11:41:11,167 - INFO - - 2025-07-09 19:56:42 PKT+0500
+2025-07-09 11:41:11,167 - INFO - 
+Waiting until 2025-07-09 12:37:38 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 12:37:38,166 - INFO - --- Starting upload attempt 1 for scheduled time 12:37:38 ---
+2025-07-09 12:37:40,702 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 12:37:46,321 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 12:37:46,322 - INFO - Already uploaded video filenames (from log): {'19.mp4', '22.mp4', '14.mp4', '6.mp4', '7.mp4', '16.mp4', '11.mp4', '9.mp4', '13.mp4', '17.mp4', '5.mp4', '15.mp4', '21.mp4', '12.mp4', '24.mp4', '4.mp4', '8.mp4', '23.mp4', '10.mp4', '20.mp4', '18.mp4'}
+2025-07-09 12:37:46,322 - INFO - Next channel video number for title: 37
+2025-07-09 12:37:46,323 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 12:37:46,323 - INFO - Next video file to upload: /home/kali/Desktop/video/25.mp4
+2025-07-09 12:37:46,323 - INFO - Attempting to click the upload icon...
+2025-07-09 12:37:48,022 - INFO - Successfully clicked the upload icon.
+2025-07-09 12:37:51,023 - INFO - Attempting to upload video file: /home/kali/Desktop/video/25.mp4
+2025-07-09 12:37:51,085 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 12:38:01,086 - INFO - Attempting to update video title to include channel number 37...
+2025-07-09 12:38:01,899 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 37'
+2025-07-09 12:38:03,899 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 12:38:04,315 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 12:38:06,315 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 12:38:06,635 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 12:38:08,636 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 12:38:09,016 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 12:38:11,017 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 12:38:11,358 - INFO - Successfully clicked the final button.
+2025-07-09 12:38:16,358 - INFO - Logged '25.mp4' as uploaded with error status.
+2025-07-09 12:38:16,359 - INFO - Updated channel video counter to: 38
+2025-07-09 12:38:25,149 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 12:38:27,702 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 12:38:27,702 - INFO - 
+Waiting until 2025-07-09 15:58:07 PKT+0500 (PKT) for next upload (2/5)...
+2025-07-09 15:58:07,167 - INFO - --- Starting upload attempt 1 for scheduled time 15:58:07 ---
+2025-07-09 15:58:09,556 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 15:58:34,759 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 15:58:34,759 - INFO - Already uploaded video filenames (from log): {'19.mp4', '25.mp4', '22.mp4', '14.mp4', '6.mp4', '7.mp4', '16.mp4', '11.mp4', '9.mp4', '13.mp4', '17.mp4', '5.mp4', '15.mp4', '21.mp4', '12.mp4', '24.mp4', '4.mp4', '8.mp4', '23.mp4', '10.mp4', '20.mp4', '18.mp4'}
+2025-07-09 15:58:34,760 - INFO - Next channel video number for title: 38
+2025-07-09 15:58:34,760 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 15:58:34,760 - INFO - Next video file to upload: /home/kali/Desktop/video/26.mp4
+2025-07-09 15:58:34,760 - INFO - Attempting to click the upload icon...
+2025-07-09 15:58:35,331 - INFO - Successfully clicked the upload icon.
+2025-07-09 15:58:38,332 - INFO - Attempting to upload video file: /home/kali/Desktop/video/26.mp4
+2025-07-09 15:58:38,397 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 15:58:48,397 - INFO - Attempting to update video title to include channel number 38...
+2025-07-09 15:58:49,120 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 38'
+2025-07-09 15:58:51,120 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 15:58:51,515 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 15:58:53,516 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 15:58:53,871 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 15:58:55,871 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 15:58:56,250 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 15:58:58,250 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 15:58:58,584 - INFO - Successfully clicked the final button.
+2025-07-09 15:59:03,584 - INFO - Logged '26.mp4' as uploaded with error status.
+2025-07-09 15:59:03,585 - INFO - Updated channel video counter to: 39
+2025-07-09 15:59:06,447 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 15:59:06,977 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 15:59:06,977 - INFO - 
+Waiting until 2025-07-09 17:05:42 PKT+0500 (PKT) for next upload (3/5)...
+2025-07-09 17:05:42,167 - INFO - --- Starting upload attempt 1 for scheduled time 17:05:42 ---
+2025-07-09 17:05:45,614 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 17:06:59,489 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 17:06:59,490 - INFO - Already uploaded video filenames (from log): {'19.mp4', '25.mp4', '22.mp4', '14.mp4', '6.mp4', '26.mp4', '7.mp4', '16.mp4', '11.mp4', '9.mp4', '13.mp4', '17.mp4', '5.mp4', '15.mp4', '21.mp4', '12.mp4', '24.mp4', '4.mp4', '8.mp4', '23.mp4', '10.mp4', '20.mp4', '18.mp4'}
+2025-07-09 17:06:59,490 - INFO - Next channel video number for title: 39
+2025-07-09 17:06:59,491 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 17:06:59,491 - INFO - Next video file to upload: /home/kali/Desktop/video/27.mp4
+2025-07-09 17:06:59,491 - INFO - Attempting to click the upload icon...
+2025-07-09 17:07:00,216 - INFO - Successfully clicked the upload icon.
+2025-07-09 17:07:03,217 - INFO - Attempting to upload video file: /home/kali/Desktop/video/27.mp4
+2025-07-09 17:07:03,265 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 17:07:13,265 - INFO - Attempting to update video title to include channel number 39...
+2025-07-09 17:07:14,378 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 39'
+2025-07-09 17:07:16,378 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 17:07:16,763 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 17:07:18,763 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 17:07:19,085 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 17:07:21,086 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 17:07:21,531 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 17:07:23,532 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 17:07:23,892 - INFO - Successfully clicked the final button.
+2025-07-09 17:07:28,893 - INFO - Logged '27.mp4' as uploaded with error status.
+2025-07-09 17:07:28,894 - INFO - Updated channel video counter to: 40
+2025-07-09 17:07:32,950 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 17:07:34,917 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 17:07:34,917 - INFO - 
+Waiting until 2025-07-09 17:29:38 PKT+0500 (PKT) for next upload (4/5)...
+2025-07-09 17:29:38,166 - INFO - --- Starting upload attempt 1 for scheduled time 17:29:38 ---
+2025-07-09 17:29:40,204 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 17:30:22,349 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 17:30:22,349 - INFO - Already uploaded video filenames (from log): {'19.mp4', '25.mp4', '22.mp4', '14.mp4', '6.mp4', '26.mp4', '7.mp4', '16.mp4', '11.mp4', '9.mp4', '13.mp4', '17.mp4', '5.mp4', '15.mp4', '21.mp4', '12.mp4', '24.mp4', '27.mp4', '4.mp4', '8.mp4', '23.mp4', '10.mp4', '20.mp4', '18.mp4'}
+2025-07-09 17:30:22,350 - INFO - Next channel video number for title: 40
+2025-07-09 17:30:22,350 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 17:30:22,350 - INFO - Next video file to upload: /home/kali/Desktop/video/28.mp4
+2025-07-09 17:30:22,351 - INFO - Attempting to click the upload icon...
+2025-07-09 17:30:22,886 - INFO - Successfully clicked the upload icon.
+2025-07-09 17:30:25,886 - INFO - Attempting to upload video file: /home/kali/Desktop/video/28.mp4
+2025-07-09 17:30:25,945 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 17:30:35,945 - INFO - Attempting to update video title to include channel number 40...
+2025-07-09 17:30:36,716 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 40'
+2025-07-09 17:30:38,717 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 17:30:39,135 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 17:30:41,135 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 17:30:41,451 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 17:30:43,452 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 17:30:43,785 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 17:30:45,785 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 17:30:46,120 - INFO - Successfully clicked the final button.
+2025-07-09 17:30:51,120 - INFO - Logged '28.mp4' as uploaded with error status.
+2025-07-09 17:30:51,121 - INFO - Updated channel video counter to: 41
+2025-07-09 17:31:00,718 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 17:31:01,262 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 17:31:01,262 - INFO - 
+Waiting until 2025-07-09 19:56:42 PKT+0500 (PKT) for next upload (5/5)...
+2025-07-09 19:56:42,166 - INFO - --- Starting upload attempt 1 for scheduled time 19:56:42 ---
+2025-07-09 19:57:19,258 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-09 19:57:21,331 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 19:57:28,134 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 19:57:28,135 - INFO - Already uploaded video filenames (from log): {'28.mp4', '19.mp4', '25.mp4', '22.mp4', '14.mp4', '6.mp4', '26.mp4', '7.mp4', '16.mp4', '11.mp4', '9.mp4', '13.mp4', '17.mp4', '5.mp4', '15.mp4', '21.mp4', '12.mp4', '24.mp4', '27.mp4', '4.mp4', '8.mp4', '23.mp4', '10.mp4', '20.mp4', '18.mp4'}
+2025-07-09 19:57:28,135 - INFO - Next channel video number for title: 41
+2025-07-09 19:57:28,137 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 19:57:28,137 - INFO - Next video file to upload: /home/kali/Desktop/video/29.mp4
+2025-07-09 19:57:28,137 - INFO - Attempting to click the upload icon...
+2025-07-09 19:57:29,486 - INFO - Successfully clicked the upload icon.
+2025-07-09 19:57:32,486 - INFO - Attempting to upload video file: /home/kali/Desktop/video/29.mp4
+2025-07-09 19:57:32,557 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 19:57:42,558 - INFO - Attempting to update video title to include channel number 41...
+2025-07-09 19:57:43,566 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 41'
+2025-07-09 19:57:45,566 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 19:57:46,062 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 19:57:48,062 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 19:57:48,352 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 19:57:50,353 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 19:57:50,729 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 19:57:52,729 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 19:57:53,126 - INFO - Successfully clicked the final button.
+2025-07-09 19:57:58,127 - INFO - Logged '29.mp4' as uploaded with error status.
+2025-07-09 19:57:58,128 - INFO - Updated channel video counter to: 42
+2025-07-09 19:58:00,712 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 19:58:01,430 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 19:58:01,430 - INFO - 
+All scheduled uploads for today have been attempted.
+2025-07-09 19:58:06,863 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 19:58:06,880 - INFO - Scheduling uploads from now (19:58:06) until 8 PM PKT today.
+2025-07-09 19:58:06,880 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 19:58:06,881 - INFO - - 2025-07-09 19:58:21 PKT+0500
+2025-07-09 19:58:06,881 - INFO - - 2025-07-09 19:58:30 PKT+0500
+2025-07-09 19:58:06,881 - INFO - - 2025-07-09 19:58:35 PKT+0500
+2025-07-09 19:58:06,881 - INFO - - 2025-07-09 19:58:38 PKT+0500
+2025-07-09 19:58:06,881 - INFO - - 2025-07-09 19:59:08 PKT+0500
+2025-07-09 19:58:06,881 - INFO - 
+Waiting until 2025-07-09 19:58:21 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 19:58:21,881 - INFO - --- Starting upload attempt 1 for scheduled time 19:58:21 ---
+2025-07-09 19:58:24,041 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:00:27,141 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): HTTPConnectionPool(host='localhost', port=50943): Read timed out. (read timeout=120)
+2025-07-09 20:00:29,527 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:00:55,633 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:00:55,633 - INFO - Retrying in 300 seconds...
+2025-07-09 20:05:55,633 - INFO - --- Starting upload attempt 2 for scheduled time 19:58:21 ---
+2025-07-09 20:05:58,426 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:06:04,550 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 20:06:04,553 - INFO - Already uploaded video filenames (from log): {'8.mp4', '17.mp4', '26.mp4', '22.mp4', '14.mp4', '28.mp4', '27.mp4', '13.mp4', '9.mp4', '5.mp4', '15.mp4', '21.mp4', '4.mp4', '11.mp4', '6.mp4', '16.mp4', '29.mp4', '25.mp4', '23.mp4', '18.mp4', '7.mp4', '24.mp4', '19.mp4', '12.mp4', '20.mp4', '10.mp4'}
+2025-07-09 20:06:04,553 - INFO - Next channel video number for title: 42
+2025-07-09 20:06:04,554 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 20:06:04,554 - INFO - Next video file to upload: /home/kali/Desktop/video/30.mp4
+2025-07-09 20:06:04,555 - INFO - Attempting to click the upload icon...
+2025-07-09 20:06:06,466 - INFO - Successfully clicked the upload icon.
+2025-07-09 20:06:09,466 - INFO - Attempting to upload video file: /home/kali/Desktop/video/30.mp4
+2025-07-09 20:06:09,529 - INFO - Successfully sent video file path to the upload input. Upload should now be in progress.
+2025-07-09 20:06:19,530 - INFO - Attempting to update video title to include channel number 42...
+2025-07-09 20:06:20,387 - INFO - Successfully updated title to: 'Nobody Cares — Here’s the Truth | #Shorts 42'
+2025-07-09 20:06:22,388 - INFO - Attempting to click 'Next' button (attempt 1/3)...
+2025-07-09 20:06:22,793 - INFO - Successfully clicked 'Next' button (attempt 1/3).
+2025-07-09 20:06:24,795 - INFO - Attempting to click 'Next' button (attempt 2/3)...
+2025-07-09 20:06:25,105 - INFO - Successfully clicked 'Next' button (attempt 2/3).
+2025-07-09 20:06:27,105 - INFO - Attempting to click 'Next' button (attempt 3/3)...
+2025-07-09 20:06:27,485 - INFO - Successfully clicked 'Next' button (attempt 3/3).
+2025-07-09 20:06:29,485 - INFO - Attempting to click the final button with XPath: /html/body/ytcp-uploads-dialog/tp-yt-paper-dialog/div/ytcp-animatable[2]/div/div[2]/ytcp-button[3]/ytcp-button-shape/button...
+2025-07-09 20:06:29,803 - INFO - Successfully clicked the final button.
+2025-07-09 20:06:34,804 - INFO - Logged '30.mp4' as uploaded with error status.
+2025-07-09 20:06:34,805 - INFO - Updated channel video counter to: 43
+2025-07-09 20:06:38,604 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:06:39,103 - INFO - Upload process completed successfully for this scheduled slot.
+2025-07-09 20:06:39,103 - INFO - 
+Scheduled time 2025-07-09 19:58:30 PKT+0500 is in the past. Attempting upload immediately (2/5).
+2025-07-09 20:06:39,103 - INFO - --- Starting upload attempt 1 for scheduled time 19:58:30 ---
+2025-07-09 20:06:41,406 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:06:45,796 - INFO - Navigated to YouTube Studio. You should see your specific profile logged in.
+2025-07-09 20:06:45,796 - INFO - Already uploaded video filenames (from log): {'8.mp4', '17.mp4', '26.mp4', '22.mp4', '30.mp4', '14.mp4', '28.mp4', '27.mp4', '13.mp4', '9.mp4', '5.mp4', '15.mp4', '21.mp4', '4.mp4', '11.mp4', '6.mp4', '16.mp4', '29.mp4', '25.mp4', '23.mp4', '18.mp4', '7.mp4', '24.mp4', '19.mp4', '12.mp4', '20.mp4', '10.mp4'}
+2025-07-09 20:06:45,796 - INFO - Next channel video number for title: 43
+2025-07-09 20:06:45,797 - INFO - All detected video files (sorted): ['11.mp4', '12.mp4', '13.mp4', '14.mp4', '15.mp4', '16.mp4', '17.mp4', '18.mp4', '19.mp4', '20.mp4', '21.mp4', '22.mp4', '23.mp4', '24.mp4', '25.mp4', '26.mp4', '27.mp4', '28.mp4', '29.mp4', '30.mp4', '31.mp4', '32.mp4', '33.mp4', '34.mp4', '35.mp4', '36.mp4', '37.mp4', '38.mp4', '39.mp4', '40.mp4', '41.mp4', '42.mp4', '43.mp4', '44.mp4', '45.mp4', '46.mp4', '47.mp4', '48.mp4', '49.mp4', '50.mp4', '51.mp4', '52.mp4', '53.mp4', '54.mp4', '55.mp4', '56.mp4', '57.mp4', '58.mp4', '59.mp4', '60.mp4', '61.mp4', '62.mp4', '63.mp4', '64.mp4', '65.mp4', '66.mp4', '67.mp4', '68.mp4', '69.mp4', '70.mp4', '71.mp4', '72.mp4', '73.mp4', '74.mp4', '75.mp4', '76.mp4', '77.mp4', '78.mp4', '79.mp4', '80.mp4', '81.mp4', '82.mp4', '83.mp4', '84.mp4', '85.mp4', '86.mp4', '87.mp4', '88.mp4', '89.mp4', '90.mp4', '91.mp4', '92.mp4', '93.mp4', '94.mp4', '95.mp4', '96.mp4', '97.mp4', '98.mp4', '99.mp4', '100.mp4']
+2025-07-09 20:06:45,797 - INFO - Next video file to upload: /home/kali/Desktop/video/31.mp4
+2025-07-09 20:06:45,797 - INFO - Attempting to click the upload icon...
+2025-07-09 20:06:45,896 - ERROR - An error occurred during YouTube upload process for video '31.mp4' (Channel # 43): Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:747:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:559:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1746:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2025-07-09 20:06:48,646 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:06:48,657 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:06:48,657 - INFO - Retrying in 300 seconds...
+2025-07-09 20:11:48,658 - INFO - --- Starting upload attempt 2 for scheduled time 19:58:30 ---
+2025-07-09 20:11:51,613 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:11:54,616 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 20:11:58,230 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:11:58,236 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:11:58,236 - INFO - Retrying in 300 seconds...
+2025-07-09 20:16:58,237 - INFO - --- Starting upload attempt 3 for scheduled time 19:58:30 ---
+2025-07-09 20:17:00,249 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:17:03,251 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 20:17:05,876 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:17:05,884 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:17:05,884 - ERROR - Max retry attempts reached for this upload slot. Moving to next scheduled time.
+2025-07-09 20:17:05,884 - INFO - 
+Scheduled time 2025-07-09 19:58:35 PKT+0500 is in the past. Attempting upload immediately (3/5).
+2025-07-09 20:17:05,885 - INFO - --- Starting upload attempt 1 for scheduled time 19:58:35 ---
+2025-07-09 20:17:07,883 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:17:10,886 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 20:17:20,588 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:17:20,594 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:17:20,594 - INFO - Retrying in 300 seconds...
+2025-07-09 20:19:17,190 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 20:19:17,213 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-09 20:19:17,213 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 20:19:17,213 - INFO - - 2025-07-10 08:16:54 PKT+0500
+2025-07-09 20:19:17,213 - INFO - - 2025-07-10 09:39:14 PKT+0500
+2025-07-09 20:19:17,213 - INFO - - 2025-07-10 14:24:52 PKT+0500
+2025-07-09 20:19:17,214 - INFO - - 2025-07-10 15:54:37 PKT+0500
+2025-07-09 20:19:17,214 - INFO - - 2025-07-10 18:53:24 PKT+0500
+2025-07-09 20:19:17,215 - INFO - 
+Waiting until 2025-07-10 08:16:54 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 20:22:20,594 - INFO - --- Starting upload attempt 2 for scheduled time 19:58:35 ---
+2025-07-09 20:22:22,690 - INFO - Successfully opened Firefox with profile: '/home/kali/.mozilla/firefox/yh9x5vth.talha'
+2025-07-09 20:22:25,694 - ERROR - An error occurred during YouTube upload process for video 'N/A' (Channel # N/A): Message: Failed to decode response from marionette
+
+2025-07-09 20:22:28,328 - INFO - Email notification sent successfully to flutterdeveloper246@gmail.com.
+2025-07-09 20:22:28,335 - WARNING - Upload process failed for this scheduled slot. Checking for retries...
+2025-07-09 20:22:28,335 - INFO - Retrying in 300 seconds...
+2025-07-09 20:22:33,368 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 20:22:33,383 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-09 20:22:33,383 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 20:22:33,384 - INFO - - 2025-07-10 11:32:22 PKT+0500
+2025-07-09 20:22:33,384 - INFO - - 2025-07-10 12:28:13 PKT+0500
+2025-07-09 20:22:33,384 - INFO - - 2025-07-10 12:41:49 PKT+0500
+2025-07-09 20:22:33,384 - INFO - - 2025-07-10 13:03:50 PKT+0500
+2025-07-09 20:22:33,384 - INFO - - 2025-07-10 14:26:06 PKT+0500
+2025-07-09 20:22:33,384 - INFO - 
+Waiting until 2025-07-10 11:32:22 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 20:45:34,695 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 20:45:34,711 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-09 20:45:34,711 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 20:45:34,711 - INFO - - 2025-07-10 08:26:21 PKT+0500
+2025-07-09 20:45:34,712 - INFO - - 2025-07-10 10:56:10 PKT+0500
+2025-07-09 20:45:34,712 - INFO - - 2025-07-10 18:24:57 PKT+0500
+2025-07-09 20:45:34,712 - INFO - - 2025-07-10 19:28:02 PKT+0500
+2025-07-09 20:45:34,712 - INFO - - 2025-07-10 19:40:56 PKT+0500
+2025-07-09 20:45:34,712 - INFO - 
+Waiting until 2025-07-10 08:26:21 PKT+0500 (PKT) for next upload (1/5)...
+2025-07-09 20:46:30,671 - INFO - Starting YouTube Shorts daily scheduler...
+2025-07-09 20:46:30,687 - INFO - Current time is past 8 PM PKT. Scheduling uploads for tomorrow.
+2025-07-09 20:46:30,687 - INFO - Generated 5 upload times for today (PKT):
+2025-07-09 20:46:30,688 - INFO - - 2025-07-10 10:11:57 PKT+0500
+2025-07-09 20:46:30,688 - INFO - - 2025-07-10 14:33:01 PKT+0500
+2025-07-09 20:46:30,688 - INFO - - 2025-07-10 15:06:15 PKT+0500
+2025-07-09 20:46:30,688 - INFO - - 2025-07-10 16:14:46 PKT+0500
+2025-07-09 20:46:30,688 - INFO - - 2025-07-10 18:00:57 PKT+0500
+2025-07-09 20:46:30,689 - INFO - 
+Waiting until 2025-07-10 10:11:57 PKT+0500 (PKT) for next upload (1/5)...
+2025-05-11 16:05:56,063 - INFO - Starting YouTube Shorts daily scheduler...
+2025-05-11 16:05:56,089 - INFO - Scheduling uploads from now (16:05:56) until 8 PM PKT today.
+2025-05-11 16:05:56,089 - INFO - Generated 5 upload times for today (PKT):
+2025-05-11 16:05:56,090 - INFO - - 2025-05-11 17:39:35 PKT+0500
+2025-05-11 16:05:56,091 - INFO - - 2025-05-11 17:41:37 PKT+0500
+2025-05-11 16:05:56,091 - INFO - - 2025-05-11 17:50:02 PKT+0500
+2025-05-11 16:05:56,091 - INFO - - 2025-05-11 19:01:09 PKT+0500
+2025-05-11 16:05:56,091 - INFO - - 2025-05-11 19:06:30 PKT+0500
+2025-05-11 16:05:56,093 - INFO - 
+Waiting until 2025-05-11 17:39:35 PKT+0500 (PKT) for next upload (1/5)...
